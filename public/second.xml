@@ -1,0 +1,5 @@
+<Response>
+    <Gather input="speech dtmf" action="/users" timeout="3" numDigits="1">
+        <Say>Bye Bye</Say>
+    </Gather>
+</Response>
