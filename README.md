@@ -1,2 +1,2 @@
-# MedicAidTwilio
-The Twilio Server for Medic Aid Project
+# Smart IVR Yield Assistant
+The Twilio Server for the Vishwakarma project
